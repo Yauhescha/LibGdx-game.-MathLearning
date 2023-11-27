@@ -1,0 +1,47 @@
+[
+  {
+    "topic": "Basic Addition",
+    "tasks": [
+      {
+        "title": "Simple Addition",
+        "description": "What is 2 + 3?",
+        "answer": "5"
+      },
+      {
+        "title": "Adding More",
+        "description": "Find the result of 4 + 4.",
+        "answer": "8"
+      }
+    ]
+  },
+  {
+    "topic": "Basic Subtraction",
+    "tasks": [
+      {
+        "title": "Easy Subtraction",
+        "description": "Subtract 5 from 8.",
+        "answer": "3"
+      },
+      {
+        "title": "More Subtraction",
+        "description": "What do you get when you subtract 2 from 7?",
+        "answer": "5"
+      }
+    ]
+  },
+  {
+    "topic": "Counting Objects",
+    "tasks": [
+      {
+        "title": "Counting Apples",
+        "description": "If there are 3 apples and you take away 2, how many do you have?",
+        "answer": "1"
+      },
+      {
+        "title": "Counting Cars",
+        "description": "There are 5 cars in a parking lot. 3 more cars arrive. How many cars are there now?",
+        "answer": "8"
+      }
+    ]
+  }
+]
